@@ -1,8 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Agni Tanmaya Behera</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer developer from India</h3>
 
-- 💬 Ask me about **MERN Stack nodejs ExpressJs**
+- 🌱 I’m currently learning **React**
+
+- 💬 Ask me about **MERN Stack Reactjs Nodejs ExpressJs**
 
 - 📫 How to reach me **agnitanmay99132@gmail.com**
 
