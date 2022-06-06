@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Agni Tanmaya Behera</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agnitanmay&label=Profile%20views&color=0e75b6&style=flat" alt="agnitanmay" /> </p>
+
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **MERN Stack Reactjs Nodejs ExpressJs MongoDb**
